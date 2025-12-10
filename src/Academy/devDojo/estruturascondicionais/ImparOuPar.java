@@ -1,3 +1,5 @@
+package Academy.devDojo.estruturascondicionais;
+
 public class ImparOuPar {
     public static void main(String[] args) {
         int numero = 20;

@@ -1,3 +1,5 @@
+package Academy.devDojo.estruturascondicionais.variaveis;
+
 public class ReutilizandoVariveis {
     public static void main(String[]args){
         double salario = 4000.30;

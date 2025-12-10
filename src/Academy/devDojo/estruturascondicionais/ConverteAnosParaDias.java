@@ -1,3 +1,5 @@
+package Academy.devDojo.estruturascondicionais;
+
 public class ConverteAnosParaDias {
     public static  void main(String[]args){
         int anos = 25;

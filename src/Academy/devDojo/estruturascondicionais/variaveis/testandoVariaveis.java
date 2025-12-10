@@ -1,3 +1,5 @@
+package Academy.devDojo.estruturascondicionais.variaveis;
+
 public class testandoVariaveis {
    public  static void main() {
        char caractere = 100;

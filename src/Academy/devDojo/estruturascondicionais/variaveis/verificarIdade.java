@@ -1,3 +1,5 @@
+package Academy.devDojo.estruturascondicionais.variaveis;
+
 /// receba uma idade como entrada
 //e for maior que 18 imprima "Adulto"
 //Senão imprima "Ainda não e adulto"//

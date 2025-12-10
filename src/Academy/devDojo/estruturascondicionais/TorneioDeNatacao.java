@@ -1,7 +1,14 @@
+package Academy.devDojo.estruturascondicionais;
+
+import java.util.Scanner;
+
 public class TorneioDeNatacao {
     public static void main(String[] args) {
-        String nome = "Gabriel";
-        int idade = 17;
+        Scanner  input = new Scanner(System.in);
+        System.out.println("Digite seu nome: ");
+        String nome = input.next();
+        System.out.println("Digite sua idade : ");
+        int idade = input.nextInt();
         if (idade <= 10) {
             System.out.println(nome + " Participara do torneio de categoria infantil");
         } else if (idade >= 11 && idade <= 15) {
